@@ -12,9 +12,9 @@ If you are a firefox user do check this out : [YT_Music](https://addons.mozilla.
 
 ----------------------------------------------------------------------------------------------------
 
-# Download & Rate this AddOn and give your valueable feedback [Here](https://addons.mozilla.org/en-US/firefox/addon/yt_music/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)🍻
+# You can Rate this AddOn and give your valueable Review [Here](https://addons.mozilla.org/en-US/firefox/addon/yt_music/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)🍻
   
 
 
 
-                                                Thankyou 🍻
+                                                       Thankyou 🍻
