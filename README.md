@@ -1,6 +1,6 @@
 
 # YT_Music 
-<h2> Firefox Add-On for Youtube Music </h2>  
+<h2> Firefox Add-On for Youtube Music </h2>   
  
 Youtube doesn't provide functionality to turn off video and listen to audio only. As I mostly listen to songs youtube while working on other tabs. The video playing in the background just heats up my laptop, eats up its battery and data. 
 So this AddOn basically block video to start and i can listen to songs only while working.
